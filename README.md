@@ -1,2 +1,2 @@
-# Git Branching Strategy
+# Git Branching Strategies
 
